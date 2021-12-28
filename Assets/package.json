@@ -1,6 +1,6 @@
 {
   "name": "com.davidnightingale.camerashot",
-  "version": "0.1",
+  "version": "0.1.0",
   "displayName": "Camera Shot",
   "description": "Small Unity tool to render selected Camera to PNG via Inspector",
   "unity": "2020.3",
