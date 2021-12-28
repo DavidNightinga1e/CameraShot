@@ -1,0 +1,21 @@
+﻿{
+  "name": "com.davidnightingale.camerashot",
+  "version": "0.1",
+  "displayName": "Camera Shot",
+  "description": "Small Unity tool to render selected Camera to PNG via Inspector",
+  "unity": "2020.3",
+  "keywords": [
+    "tools",
+    "screenshot",
+    "camera",
+    "render"
+  ],
+  "author": "David Nightingale (https://github.com/DavidNightinga1e)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidNightinga1e/CameraShot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DavidNightinga1e/CameraShot/issues"
+  }
+}
